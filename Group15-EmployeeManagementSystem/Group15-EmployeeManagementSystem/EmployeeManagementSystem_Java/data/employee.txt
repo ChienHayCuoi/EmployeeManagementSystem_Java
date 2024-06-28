@@ -1,0 +1,5 @@
+104,Phạm Duy Chiến,4/3/2003,Nam,Thái Bình,14141234124124,email,Thái Bình,2/2/2024,149.0,IT,IT,ImgEmployee\\img11.jpg
+110,Việt,5/6/2007,Nam,Phú Thọ,01243124,vieqa@gmail.com,Phú Thọ,1/2/2023,150.0,Kế Toán,Nhân Viên,ImgEmployee\\img14.jpg
+120,Mạnh,10/8/2003,Nam,Hà Nội,012124819,manh@gmail.com,Hà Nội,05/10/2024,110.0,Nhân Sự,Nhân Viên,ImgEmployee\img16.jpg
+130,Thắng,9/9/2003,Nam,Hà Nội,0124835992,thamv@gmail.com,Hà Nội,2/06/2024,100.0,Kế Toán,Nhân Viên,ImgEmployee\\img16.jpg
+140,Chiến,11/4/2003,Nam,Thái Bình,01234124,chien@gmail.com,Thái Bình,14/09/2023,123.0,Hành Chính,Trưởng Phòng,ImgEmployee\\img17.jpg
